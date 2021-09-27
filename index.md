@@ -2,4 +2,4 @@
 
 Minicurso de gerenciamento de projetos em git
 
-VIII SEMEF
+VIII SEMEF 2021
