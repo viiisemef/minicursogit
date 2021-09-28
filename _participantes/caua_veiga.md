@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Cauã Veiga
 
-$$010101$$
+Cauã Veiga
