@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+
+collections:
+  participantes:
+    output: true
