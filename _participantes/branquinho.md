@@ -1,6 +1,10 @@
 ---
 layout: default
 
+nome: Pedro Gomes Branquinho
+cidade: Franca
+idade: 23 
+
 ---
 
 # Pedro Branquinho
@@ -11,4 +15,4 @@ Mudanças!
 
 Mais algumas alterações!
 
-Voltar
+Nome: {{page.nome}}

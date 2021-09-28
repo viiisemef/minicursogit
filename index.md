@@ -26,7 +26,7 @@ Ambientes colaborativos como *Github* ou **Gitlab** dependem de uma abordagem de
 
 {% for participe in site.participantes %}
 
-[{{participe.title}}]({{site.baseurl}}{{participe.url}})
+[{{participe.title}}]({{site.baseurl}}{{participe.url}}): {{participe.nome}}
 
 {% endfor %}
 
