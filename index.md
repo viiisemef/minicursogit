@@ -1,6 +1,6 @@
 # Desenvolvimento de projetos cooperativos usando GIT
 
-## Minicurso oferecido durante a VIII SEMEF 2021 (27/09 - 01/10/2021)
+## Minicurso oferecido durante a VIII SEMEF (27/09 - 01/10/2021)
 
 ### Prof Luiz T. F. Eleno
 
