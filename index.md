@@ -18,6 +18,8 @@ Ambientes colaborativos como *Github* ou **Gitlab** dependem de uma abordagem de
 
 [Acesse o repositório no Github](https://github.com/viiisemef/minicursogit)
 
+![VIII SEMEF](https://computeel.org/semef/img/logos/SemefEstrelasOnline.png)
+
 ---
 
 ## Participantes-desenvolvedores:
