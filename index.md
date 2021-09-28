@@ -10,6 +10,6 @@ VIII SEMEF 2021
 
 {% for participe in site.participantes %}
 
-[{{participe.title}}]({{participe.url}})
+[{{participe.title}}]({{site.baseurl}}{{participe.url}})
 
 {% endfor %}
