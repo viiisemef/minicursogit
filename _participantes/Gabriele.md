@@ -1,6 +1,6 @@
 ---
 layout: default
-nome: Pedro Gomes Branquinho
+nome: Gabriele de Sousa Araujo
 ---
 
 # Gabriele Araujo
