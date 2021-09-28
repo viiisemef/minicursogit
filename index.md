@@ -15,3 +15,5 @@ Ambientes colaborativos como Github ou Gitlab dependem de uma abordagem de geren
 [{{participe.title}}]({{site.baseurl}}{{participe.url}})
 
 {% endfor %}
+
+---
