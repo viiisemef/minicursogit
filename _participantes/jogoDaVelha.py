@@ -119,7 +119,6 @@ def getComputerMove(board, computerLetter):
 def isBoardFull(board):
     #Retorna true se todos os espacos do tabuleiro estiverem ocupados
     for i in range(1, 10):
-        return False
         if isSpaceFree(board, i):
             return False
         else:
